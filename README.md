@@ -10,4 +10,6 @@ Source code for our DotNet 2018 talk: **Good Practices with Asp .Net Core**
  
  Twitter: @carlos_lande
 
+Explicacion en YouTube: https://www.youtube.com/watch?v=YMJJh3sNu3o&amp=&t=620s
+
  ![Dotnet2018](https://lifemadrid.com/wp-content/uploads/dotnet_cover-696x426.jpg "Dotnet2018")
